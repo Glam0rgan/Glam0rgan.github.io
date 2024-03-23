@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Glam0rgan.github.io</id>
+    <title>Blog</title>
+    <updated>2024-03-23T13:53:42.136Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Glam0rgan.github.io"/>
+    <link rel="self" href="https://Glam0rgan.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Glam0rgan.github.io/images/avatar.png</logo>
+    <icon>https://Glam0rgan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[go]]></title>
+        <id>https://Glam0rgan.github.io/post/go-day1/</id>
+        <link href="https://Glam0rgan.github.io/post/go-day1/">
+        </link>
+        <updated>2024-03-23T13:01:27.000Z</updated>
+    </entry>
+</feed>
